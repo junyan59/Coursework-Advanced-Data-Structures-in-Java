@@ -1,0 +1,6 @@
+# Coursework - Advanced Data Structures in Java
+
+This repo is a collection of courseworks I did when I took the Advanced Data Structures in Java course via coursera. From this course, I have learned the central data structure in the course: Graphs; found shortest paths in weighted graphs via AStarSearch and Dijkstra; Route planning and NP-hard graph problems.
+
+## The Courses
+- Algorithms Part 1: https://www.coursera.org/learn/advanced-data-structures/home/info
